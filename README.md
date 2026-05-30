@@ -1,3 +1,9 @@
+# Hi, I'm Evgenia 👋
+
+AI Operations • Automation • MVP Development • Workflow Design
+
+I build AI-powered workflows, operational systems, MVPs, dashboards, automations, and digital solutions that improve efficiency and decision-making.
+
 ## Expertise
 
 - AI Workflow Design
@@ -11,3 +17,30 @@
 - Reporting & Dashboards
 - Process Documentation
 - Project & Stakeholder Coordination
+
+## Tools
+
+### AI
+- ChatGPT
+- Claude
+- Gemini
+- Google AI Studio
+
+### Automation & Development
+- Make
+- FlutterFlow
+- Python
+- Firebase
+- GitHub
+- Netlify
+
+### Operations
+- Notion
+- Google Workspace
+
+### Content & Media
+- HeyGen
+- Runway
+- Gamma
+- Netlify
+- Python
