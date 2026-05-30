@@ -43,4 +43,3 @@ I build AI-powered workflows, operational systems, MVPs, dashboards, automations
 - Runway
 - Gamma
 - Netlify
-- Python
